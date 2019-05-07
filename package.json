@@ -16,7 +16,7 @@
   "keywords": [
     "plugin"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/plugin-transform-runtime": "^7.4.4",
